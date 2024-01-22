@@ -27,8 +27,16 @@ If you need to install Python 3.9, go <a href="https://www.python.org/downloads/
 
 ![The correct download link for Python 3.9.13 on Windows](imgs/windows_python_install_ss.png)
 
-### Install Microsoft's Visual Studio Build Dependencies
-TODO Visual studio build tools install steps here
+### Install Microsoft's Build Tools for Visual Studio
+This installation is necessary for some of the packages we use for the course.
+
+Visit <a href="https://visualstudio.microsoft.com/downloads/">Microsoft's site</a> and scroll down to the 'All Downloads' section.
+
+Expand the 'Tools for Visual Studio' submenu and download 'Build Tools for Visual Studio 2022'.
+
+![The correct download link for Build Tools for Visual Studio on Windows](imgs/windows_vs_tools_install_ss.png)
+
+Finally, run the _vs_BuildTools.exe_ executable and follow the prompts
 
 ### Create a folder for the course
 How you structure your files is up to you, but we recommend making a main course directory to house the Python virtual environment and all the homeworks.  This would look something like the following:
