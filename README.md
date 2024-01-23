@@ -11,6 +11,7 @@ Deactivate the virtual environment when you're done coding with
 ```bash
 deactivate
 ```
+After deactivation, you will notice that `(cs142_env)` disappears from the beginning of the the prompt.
 
 ## Personal Mac
 ### Install Python 3.9
@@ -67,7 +68,7 @@ deactivate
 ```
 from anywhere.
 
-After deactivation, you will notice that `(env) ` disappears from the beginning of the the prompt.
+After deactivation, you will notice that `(env)` disappears from the beginning of the the prompt.
 
 ## Personal Windows
 ### Install Python 3.9
@@ -136,4 +137,4 @@ deactivate
 ```
 from anywhere.
 
-After deactivation, you will notice that `(env) ` disappears from the beginning of the the prompt.
+After deactivation, you will notice that `(env)` disappears from the beginning of the the prompt.
