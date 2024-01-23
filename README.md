@@ -19,7 +19,7 @@ First check whether Python 3.9 is already installed by running
 ```bash
 python3.9 -V
 ```
-[Install](https://www.python.org/downloads/release/python-3913/) Python 3.9.13 as needed (`macOS 64-bit universal2 installer` for Silicon and `macOS 64-bit Intel-only installer` for Intel).
+Install Python [3.9.13](https://www.python.org/downloads/release/python-3913/) as needed (`macOS 64-bit universal2 installer` for Silicon and `macOS 64-bit Intel-only installer` for Intel).
 
 ### Create a Folder for the Course
 How you structure your files is up to you, but we recommend making a main course directory to house the Python virtual environment and all the homeworks.  This would look something like the following:
