@@ -1,11 +1,11 @@
 # CS1420 Python Virtual Environment Setup 2024
 
 ## Brown CS Department Machine
-On Brown CS department machines, the virtual environment is already built and the packages are installed. You can directly activate it and subsequently use it with the following command:
+On Brown CS department machines, the virtual environment is already built and the packages are installed. You can directly activate it and subsequently use it by running the following command from your home directory:
 ```bash
 source /course/cs1420/cs142_env/bin/activate
 ```
-The prompt will then change to `(cs142_env) $...` to show that the virtual environment is active.
+The prompt will then change to begin with `(cs142_env)` to show that the virtual environment is active.
 
 Deactivate the virtual environment when you're done coding with
 ```bash
